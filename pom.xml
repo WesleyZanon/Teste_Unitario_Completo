@@ -41,7 +41,18 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+			<plugin>
+    				<groupId>org.springframework.boot</groupId>
+    				<artifactId>spring-boot-maven-plugin</artifactId>
+    				<version>3.0.5</version>
+    				<configuration>
+        			<mainClass>com.facens.learn.FacensLearnApplication</mainClass>
+    				</configuration>
+			</plugin>
+			
 		</plugins>
+		
 	</build>
 
 </project>
