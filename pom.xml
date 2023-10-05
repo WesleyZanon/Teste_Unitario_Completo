@@ -19,10 +19,10 @@
 		</dependency>
 
 		<dependency>
-    <groupId>com.example</groupId>
-    <artifactId>perfis</artifactId>
-    <version>1.0-SNAPSHOT</version>
-</dependency>
+    			<groupId>com.example</groupId>
+    			<artifactId>perfis</artifactId>
+    			<version>1.0-SNAPSHOT</version>
+		</dependency>
 		
 
 	</dependencies>
